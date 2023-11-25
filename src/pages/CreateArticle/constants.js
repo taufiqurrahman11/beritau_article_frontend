@@ -1,0 +1,2 @@
+export const CREATE_ARTICLE = 'CREATE_ARTICLE';
+export const SET_NEW_ARTICLE = 'SET_NEW_ARTICLE';
